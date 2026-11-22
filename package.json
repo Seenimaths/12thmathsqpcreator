@@ -1,9 +1,0 @@
-{
-  "name": "tn-12th-maths-qp-studio",
-  "version": "5.0.0",
-  "private": true,
-  "description": "Tamil Nadu Class XII Mathematics Bilingual Question Paper Studio — Final Edition",
-  "scripts": {
-    "start": "npx serve ."
-  }
-}
